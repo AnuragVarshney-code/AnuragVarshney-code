@@ -1,5 +1,6 @@
 <h2 align="Left">Hi 👋, My name is Anurag Varshney</h2>
-<h3 align="Left">Student At Poornima Institute Of Engineering And Technology</h3>
+<h3 align="Left">Graduate from Poornima Institute Of Engineering And Technology</h3>
+<h3 align="Left">Full Stack Dotnet Developer at Metacube Software Pvt. Ltd.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
